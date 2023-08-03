@@ -27,14 +27,22 @@ IFFA300demo     MD5: DD094A7136CBC8EC42F9EB74D02CB233
 
 原创：
 什么是大蒜：http://www.asm64.com/1/
+
 不知道刷什么？5382种文件格式看一看：http://www.asm64.com/file.html
+
 大蒜初学者使用指南案例【2020.4.5 V1.0】：http://www.asm64.com/IFFA/help.pdf
+
 大蒜早期使用PPT讲解：http://www.asm64.com/IFFA/VIP/IFFA_PPT_V1.pdf
+
 如何选目标？文件格式漏洞挖掘指南:https://mp.weixin.qq.com/s/LGfmDvEdYEZL-x-ciFrlNg
+
 用大蒜10秒挖掘PLC远程缓冲区溢出漏洞:https://mp.weixin.qq.com/s/ebRlZIiEdyO6HAjQRaDvvg
+
 8分钟挖掘某office漏洞[视频]:https://mp.weixin.qq.com/s/blujpzsCQvTPA9Np0HvuSQ
+
 
 【转载】网上其他人写的：
 二进制fuzz测试拒绝服务漏洞刷漏洞技巧
+
 https://blog.csdn.net/m0_46689007/article/details/128279338 
 
